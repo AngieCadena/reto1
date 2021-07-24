@@ -7,6 +7,7 @@ public class Ejercicio {
     Scanner sc=new Scanner();
         System.out.print("x");
         System.out.println("Hola mundo");
+        System.out.println("Hola mundo x");
 
         
     }
