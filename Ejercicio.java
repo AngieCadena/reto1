@@ -8,6 +8,7 @@ public class Ejercicio {
         System.out.print("x");
         System.out.println("Hola mundo");
         System.out.println("Hola mundo x");
+         System.out.println("Cambio en red");
 
         
     }
