@@ -9,6 +9,7 @@ public class Ejercicio {
         System.out.println("Hola mundo");
         System.out.println("Hola mundo x");
          System.out.println("Cambio en red");
+         System.out.println("Hoy es domingo");
 
         
     }
